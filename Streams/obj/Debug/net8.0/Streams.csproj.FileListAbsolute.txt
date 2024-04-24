@@ -1,0 +1,14 @@
+D:\Projects\Streams\Streams\bin\Debug\net8.0\Streams.exe
+D:\Projects\Streams\Streams\bin\Debug\net8.0\Streams.deps.json
+D:\Projects\Streams\Streams\bin\Debug\net8.0\Streams.runtimeconfig.json
+D:\Projects\Streams\Streams\bin\Debug\net8.0\Streams.dll
+D:\Projects\Streams\Streams\bin\Debug\net8.0\Streams.pdb
+D:\Projects\Streams\Streams\obj\Debug\net8.0\Streams.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Streams\Streams\obj\Debug\net8.0\Streams.AssemblyInfoInputs.cache
+D:\Projects\Streams\Streams\obj\Debug\net8.0\Streams.AssemblyInfo.cs
+D:\Projects\Streams\Streams\obj\Debug\net8.0\Streams.csproj.CoreCompileInputs.cache
+D:\Projects\Streams\Streams\obj\Debug\net8.0\Streams.dll
+D:\Projects\Streams\Streams\obj\Debug\net8.0\refint\Streams.dll
+D:\Projects\Streams\Streams\obj\Debug\net8.0\Streams.pdb
+D:\Projects\Streams\Streams\obj\Debug\net8.0\Streams.genruntimeconfig.cache
+D:\Projects\Streams\Streams\obj\Debug\net8.0\ref\Streams.dll

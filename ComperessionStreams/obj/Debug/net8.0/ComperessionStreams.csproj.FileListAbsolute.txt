@@ -1,0 +1,14 @@
+D:\Projects\Streams\ComperessionStreams\bin\Debug\net8.0\ComperessionStreams.exe
+D:\Projects\Streams\ComperessionStreams\bin\Debug\net8.0\ComperessionStreams.deps.json
+D:\Projects\Streams\ComperessionStreams\bin\Debug\net8.0\ComperessionStreams.runtimeconfig.json
+D:\Projects\Streams\ComperessionStreams\bin\Debug\net8.0\ComperessionStreams.dll
+D:\Projects\Streams\ComperessionStreams\bin\Debug\net8.0\ComperessionStreams.pdb
+D:\Projects\Streams\ComperessionStreams\obj\Debug\net8.0\ComperessionStreams.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Streams\ComperessionStreams\obj\Debug\net8.0\ComperessionStreams.AssemblyInfoInputs.cache
+D:\Projects\Streams\ComperessionStreams\obj\Debug\net8.0\ComperessionStreams.AssemblyInfo.cs
+D:\Projects\Streams\ComperessionStreams\obj\Debug\net8.0\ComperessionStreams.csproj.CoreCompileInputs.cache
+D:\Projects\Streams\ComperessionStreams\obj\Debug\net8.0\ComperessionStreams.dll
+D:\Projects\Streams\ComperessionStreams\obj\Debug\net8.0\refint\ComperessionStreams.dll
+D:\Projects\Streams\ComperessionStreams\obj\Debug\net8.0\ComperessionStreams.pdb
+D:\Projects\Streams\ComperessionStreams\obj\Debug\net8.0\ComperessionStreams.genruntimeconfig.cache
+D:\Projects\Streams\ComperessionStreams\obj\Debug\net8.0\ref\ComperessionStreams.dll

@@ -1,0 +1,14 @@
+D:\Projects\Streams\IDisposableTest\bin\Debug\net8.0\IDisposableTest.exe
+D:\Projects\Streams\IDisposableTest\bin\Debug\net8.0\IDisposableTest.deps.json
+D:\Projects\Streams\IDisposableTest\bin\Debug\net8.0\IDisposableTest.runtimeconfig.json
+D:\Projects\Streams\IDisposableTest\bin\Debug\net8.0\IDisposableTest.dll
+D:\Projects\Streams\IDisposableTest\bin\Debug\net8.0\IDisposableTest.pdb
+D:\Projects\Streams\IDisposableTest\obj\Debug\net8.0\IDisposableTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Streams\IDisposableTest\obj\Debug\net8.0\IDisposableTest.AssemblyInfoInputs.cache
+D:\Projects\Streams\IDisposableTest\obj\Debug\net8.0\IDisposableTest.AssemblyInfo.cs
+D:\Projects\Streams\IDisposableTest\obj\Debug\net8.0\IDisposableTest.csproj.CoreCompileInputs.cache
+D:\Projects\Streams\IDisposableTest\obj\Debug\net8.0\IDisposableTest.dll
+D:\Projects\Streams\IDisposableTest\obj\Debug\net8.0\refint\IDisposableTest.dll
+D:\Projects\Streams\IDisposableTest\obj\Debug\net8.0\IDisposableTest.pdb
+D:\Projects\Streams\IDisposableTest\obj\Debug\net8.0\IDisposableTest.genruntimeconfig.cache
+D:\Projects\Streams\IDisposableTest\obj\Debug\net8.0\ref\IDisposableTest.dll

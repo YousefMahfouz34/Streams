@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\Streams\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB9AF0D7-6429-4086-B59B-18FE52DEF2E9}|ComperessionStreams\\ComperessionStreams.csproj|d:\\projects\\streams\\comperessionstreams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB9AF0D7-6429-4086-B59B-18FE52DEF2E9}|ComperessionStreams\\ComperessionStreams.csproj|solutionrelative:comperessionstreams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DFA3B309-2193-4434-A0ED-ECF4D30B12DE}|Streams\\Streams.csproj|d:\\projects\\streams\\streams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFA3B309-2193-4434-A0ED-ECF4D30B12DE}|Streams\\Streams.csproj|solutionrelative:streams\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AF53400F-557D-403E-90B0-5770204661E6}|IDisposableTest\\IDisposableTest.csproj|D:\\Projects\\Streams\\idisposabletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AF53400F-557D-403E-90B0-5770204661E6}|IDisposableTest\\IDisposableTest.csproj|solutionrelative:idisposabletest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Streams\\ComperessionStreams\\Program.cs",
+              "RelativeDocumentMoniker": "ComperessionStreams\\Program.cs",
+              "ToolTip": "D:\\Projects\\Streams\\ComperessionStreams\\Program.cs*",
+              "RelativeToolTip": "ComperessionStreams\\Program.cs*",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAmwBgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-24T07:48:58.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Streams\\IDisposableTest\\Program.cs",
+              "RelativeDocumentMoniker": "IDisposableTest\\Program.cs",
+              "ToolTip": "D:\\Projects\\Streams\\IDisposableTest\\Program.cs",
+              "RelativeToolTip": "IDisposableTest\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T09:41:19.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Projects\\Streams\\Streams\\Program.cs",
+              "RelativeDocumentMoniker": "Streams\\Program.cs",
+              "ToolTip": "D:\\Projects\\Streams\\Streams\\Program.cs",
+              "RelativeToolTip": "Streams\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwB8AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T07:50:27.209Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

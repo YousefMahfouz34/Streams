@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kX37oP/zSiIpNCCVMHdQkgTQ1rUP6gWQoGIOIYHocXWtB3iwHPvea1S2PF9WAUmO+P2ZxvNzhSAXMtPqEElEfA==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\Streams\\ComperessionStreams\\ComperessionStreams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\youse\\.nuget\\packages\\system.security.accesscontrol\\6.0.1\\system.security.accesscontrol.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

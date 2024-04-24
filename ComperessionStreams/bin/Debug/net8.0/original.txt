@@ -1,0 +1,7 @@
+Two general-purpose compression streams are provided in
+the System.IO.Compression namespace: DeflateStream and
+GZipStream. Both use a popular compression algorithm
+similar to that of the ZIP format. They differ in that
+GZipStream writes an additional protocol at the start and end
+—including a CRC to detect errors. GZipStream also conforms
+to a standard recognized by other software.
